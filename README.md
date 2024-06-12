@@ -1,6 +1,6 @@
-# Hi there! I'm [Your Name] 👋
+# Hi there! I'm Francisco Ribeiro 👋
 
-I am a Computer Engineering and Informatics student at the University of Aveiro. I have a passion for technology and software development, and I am always eager to learn and explore new technologies.
+I am studying Computer and Informatics Engineering at the University of Aveiro. I have a passion for technology and software development, and I am always eager to learn and explore new technologies.
 
 ## 🚀 Technologies & Tools
 
@@ -20,25 +20,10 @@ I am a Computer Engineering and Informatics student at the University of Aveiro.
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
-## 🌱 Currently Learning
-
-- Advanced Python programming
-- Web development frameworks (e.g., React, Node.js)
-- Cloud technologies and services
-
 ## 📫 How to reach me
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
-- [Twitter](https://twitter.com/your-twitter)
-- [Email](mailto:your-email@example.com)
+- [Email](mailto:franciscomribeiro05@gmail.com)
 
-## 💼 Projects
-
-Here are some of the projects I have worked on:
-
-- [Project 1](https://github.com/your-username/project1): Brief description of what this project does.
-- [Project 2](https://github.com/your-username/project2): Brief description of what this project does.
-- [Project 3](https://github.com/your-username/project3): Brief description of what this project does.
 
 Feel free to check out my repositories for more of my work!
 
