@@ -15,15 +15,7 @@ I am studying Computer and Informatics Engineering at the University of Aveiro. 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-
-## 📫 How to reach me
-
-- [Email](mailto:franciscomribeiro05@gmail.com)
-
+## 📫 Feel free to reach out to me at [franciscomribeiro05@gmail.com](mailto:franciscomribeiro05@gmail.com) (personal) or [franciscomribeiro05@ua.pt](mailto:franciscomribeiro05@ua.pt) (academic)
 
 Feel free to check out my repositories for more of my work!
 
