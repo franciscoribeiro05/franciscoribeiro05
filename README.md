@@ -10,7 +10,7 @@ I am studying Computer and Informatics Engineering at the University of Aveiro. 
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-    <img src="https://custom-icon-badges.demolab.com/badge/C-Blue?style=for-the-badge&logo=letter-c&logoColor=white" alt="C"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/C-00599C?style=for-the-badge&logo=letter-c&logoColor=white" alt="C"/>
     <img src="https://img.shields.io/badge/GNS3-0078D7?style=for-the-badge&logo=gns3&logoColor=white" alt="GNS3"/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
